@@ -35,5 +35,5 @@ Update 2: [Youtube](https://youtu.be/tguRd_hfZQ0)
 Update 1: [Youtube](https://youtu.be/QzZHsiDmg10)  
 
 ## Contributors  
-Xinlong Sun(xs15)  
+Xinglong Sun(xs15)  
 Haozhe Si(haozhes3)
